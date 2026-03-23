@@ -1,4 +1,5 @@
-import 'package:dart_application_1/exercicio1.dart';
+import '../lib/exercicio1.dart';
+
 
 // Exercício 1: Calculadora de Média Crie um programa que solicite ao usuário 3 notas, calcule a média aritmética e exiba o resultado.
 
