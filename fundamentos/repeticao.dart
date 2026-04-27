@@ -14,4 +14,16 @@ void main(List<String> args) {
   frutas.forEach((fruta) {
     print('Fruta: $fruta');
   });
+
+  int contador = 0;
+
+  while (contador < 5) {
+    print('Contador: $contador');
+    contador++;
+  }
+
+  do {
+    print('Contador do-while: $contador');
+    contador++;
+  } while (contador < 5);
 }
